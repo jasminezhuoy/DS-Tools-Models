@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Task1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task1_jar</output-path>
+    <root id="archive" name="Task1.jar">
+      <element id="module-output" name="Task1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 1/hadoop-yarn-api-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 1/hadoop-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 1/hadoop-annotations-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 1/hadoop-mapreduce-client-app-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 1/hadoop-hdfs-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 1/hadoop-mapreduce-client-core-2.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
